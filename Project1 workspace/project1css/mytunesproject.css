@@ -1,0 +1,149 @@
+#gp{
+    /* border: 1px solid black; */
+    height: 100%;
+
+}
+
+#p1{
+    color: white;
+    /* border: 1px solid black; */
+    height: 650px;
+    background-image: url(../project1image/showcase.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#nav1{
+    /* border: 1px solid black; */
+    background-color: rgb(71, 59, 59);
+    word-spacing: 20px;
+    height: 30px;
+    position: relative;
+}
+
+.a1{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+#c1{
+    /* border: 1px solid black; */
+    height: 400px;
+    margin: 100px 80px;
+
+}
+
+#subc_1{
+    /* border: 1px solid black; */
+    margin: 0px 30px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+#div1_hdr1{
+    /* border: 1px solid black; */
+    font-size:2cm;
+}
+#div1_para1{
+    /* border: 1px solid black; */
+    font-size: 1cm;
+    margin: 50px 0px;
+}
+#div1_para2{
+    /* border: 1px solid black; */
+    text-align: center;
+    margin-top: 40px;
+    font-size:x-large;
+}
+#p2{
+    color: white;
+    /* border: 1px solid black; */
+    height: 1220px;
+   text-align: center;
+   background-color: rgb(53, 50, 50);
+   position: relative;
+}
+
+#div2_hd2{
+    /* border: 1px solid black; */
+    padding: 20px;
+}
+#div2_hdr2{
+    /* border: 1px solid black; */
+    font-size:1.1cm;
+}
+h3{
+    font-size: 1cm;
+}
+#div2_para1{
+    /* border: 1px solid black; */
+    font-size:x-large;
+}
+#SYTN{
+    /* border: 1px solid black; */
+    color: white;
+    text-decoration: none;
+    background-color: brown;
+    padding: 20px;
+}
+#div2_para2{
+    /* border: 1px solid black; */
+    padding: 20px;
+}
+#p3{
+    /* border: 1px solid black; */
+    text-align: center;
+    position: relative;
+}
+#div3_para1{
+    /* border: 1px solid black; */
+    font-size: x-large;
+    padding: 15px;
+}
+#RM{
+    margin-top: 20px;
+    /* border: 1px solid black; */
+    color: white;
+    text-decoration: none;
+    background-color: rgb(3, 3, 87);
+    padding: 20px;
+}
+#img2{
+    margin-right: 55px;
+    margin-top: 50px;
+}
+#p4{
+    /* border: 1px solid black; */
+    text-align: center;
+    background-image: url(../project1image/section-bg.jpeg);
+    height: 300px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 150px 0px;
+}
+#div4_para1{
+    /* border: 1px solid black; */
+    font-size: x-large;
+    padding: 15px;
+}
+#p5{
+    /* border: 1px solid black; */
+    position: relative;
+    height: 550px;
+}
+
+#img3{
+    /* border: 1px solid black; */
+    height: 400px;
+    width: 50%;
+    position: absolute;
+    }
+#p5_c2{
+    /* border: 1px solid black; */
+    width: 50%;
+    right: 0px;
+    position: absolute;
+}
+
